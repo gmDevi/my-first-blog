@@ -25,7 +25,8 @@ SECRET_KEY = '4rfjd=%oqejnab=aiq66@b5-rv6xdia-z+vns1!boz2c+x(0b^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gmdevi.pythonanywhere.com',
+                 '127.0.0.1']
 
 
 # Application definition
